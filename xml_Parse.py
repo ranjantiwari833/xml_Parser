@@ -23,12 +23,21 @@ def parse_xml(xml_file, txt_file):
 
     ## find and replace the points
     counter = -1 # counter starts from -1 as the 1st tag read in root.iter is the blank tag
-
     for attributes in root.iter():
-        # print(attributes.text)
+        counter += 1
+    
+    if len(data) != counter:
+        print("Data points and Object field counts do not match.")
+        print(f'Data Count: {len(data)} and Object Count: {counter}')
+        print("Terminating the script. No files updated!")
+        sys.exit(1)
+    
+    counter = -1  # resetting the counter
+    for attributes in root.iter():
+        # Replaces values for Point1
         attributes.text = re.sub(r"Point1          [a-z0-9\.,\-]*,", f"Point1          {data[counter]}",attributes.text)
+        # Replaces values for Point2
         attributes.text = re.sub(r"Point2          [a-z0-9\.,\-]*,", f"Point2          {data[counter]}",attributes.text)
-        # print(attributes.text)
         counter += 1
 
     ## write the updated xml data into new xml file
