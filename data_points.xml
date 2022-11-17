@@ -1,0 +1,705 @@
+<myroot> 
+  <Object1>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7e-06,0.000195,1.4306e-07
+    Point2          7e-06,0.000195,2.14306e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object1>
+
+  <Object2>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000193,0.000195,-2.33948e-07
+    Point2          0.000193,0.000195,1.76605e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object2>
+
+  <Object3>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000137488,0.000133316,-9.05732e-07
+    Point2          0.000137488,0.000133316,1.09427e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object3>
+
+  <Object4>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7.009279999999999e-05,3.71371e-05,-6.97323e-07
+    Point2          7.009279999999999e-05,3.71371e-05,1.30268e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object4>
+
+  <Object5>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000139719,0.000187999,1.31122e-07
+    Point2          0.000139719,0.000187999,2.13112e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object5>
+
+  <Object6>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000188436,0.000182429,1.93785e-07
+    Point2          0.000188436,0.000182429,2.19379e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object6>
+
+  <Object7>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000154831,0.000165659,-4.13842e-07
+    Point2          0.000154831,0.000165659,1.58616e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object7>
+
+  <Object8>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000109222,6.09494e-05,-1.33091e-06
+    Point2          0.000109222,6.09494e-05,6.69094e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object8>
+
+  <Object9>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.88342e-05,0.000177124,3.42335e-07
+    Point2          4.88342e-05,0.000177124,2.34233e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object9>
+
+  <Object10>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          3.09909e-05,2.98883e-05,2.02649e-08
+    Point2          3.09909e-05,2.98883e-05,2.02026e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object10>
+
+  <Object11>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000134806,0.000170881,-5.78794e-07
+    Point2          0.000134806,0.000170881,1.42121e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object11>
+
+  <Object12>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          3.26493e-05,0.000173767,-5.19369e-07
+    Point2          3.26493e-05,0.000173767,1.48063e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object12>
+
+  <Object13>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000147848,9.70855e-05,-9.88294e-07
+    Point2          0.000147848,9.70855e-05,1.01171e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object13>
+
+  <Object14>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.80991e-05,7.06192e-05,2.69134e-07
+    Point2          4.80991e-05,7.06192e-05,2.26913e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object14>
+
+  <Object15>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000108753,0.000126615,-8.01402e-07
+    Point2          0.000108753,0.000126615,1.1986e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object15>
+
+  <Object16>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          9.92825e-05,0.000146451,3.39895e-07
+    Point2          9.92825e-05,0.000146451,2.33989e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object16>
+
+  <Object17>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.2331e-07,4.90067e-05,-1.0251e-06
+    Point2          4.2331e-07,4.90067e-05,9.748979999999999e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object17>
+
+  <Object18>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000200423,4.90067e-05,-7.07461e-07
+    Point2          0.000200423,4.90067e-05,1.29254e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object18>
+
+  <Object19>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.00015952,3.20946e-05,-5.52039e-07
+    Point2          0.00015952,3.20946e-05,1.44796e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object19>
+
+  <Object20>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000116957,0.00011411,-1.43177e-06
+    Point2          0.000116957,0.00011411,5.68229e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object20>
+
+  <Object21>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000181749,5.75226e-05,-1.27438e-06
+    Point2          0.000181749,5.75226e-05,7.25623e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object21>
+
+  <Object22>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.00014728,5.94499e-05,-8.50287e-07
+    Point2          0.00014728,5.94499e-05,1.14971e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object22>
+
+  <Object23>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000178805,0.000153301,-4.10136e-07
+    Point2          0.000178805,0.000153301,1.58986e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object23>
+
+  <Object24>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000145714,0.000115617,-6.17174e-07
+    Point2          0.000145714,0.000115617,1.38283e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object24>
+
+  <Object25>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000140428,0.000155015,-1.16063e-06
+    Point2          0.000140428,0.000155015,8.39374e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object25>
+
+  <Object26>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000176304,1.64486e-05,-3.13427e-07
+    Point2          0.000176304,1.64486e-05,1.68657e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object26>
+
+  <Object27>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          8.9695e-05,8.85128e-05,-7.0762e-08
+    Point2          8.9695e-05,8.85128e-05,1.92924e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object27>
+
+  <Object28>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          6.573440000000001e-05,0.000139038,-3.20288e-07
+    Point2          6.573440000000001e-05,0.000139038,1.67971e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object28>
+
+  <Object29>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          6.44454e-05,0.000177939,-1.06916e-07
+    Point2          6.44454e-05,0.000177939,1.89308e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object29>
+
+  <Object30>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.50514e-05,0.000145823,-6.08631e-07
+    Point2          4.50514e-05,0.000145823,1.39137e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object30>
+
+  <Object31>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          2.831943e-05,0.000108401,-7.05544e-07
+    Point2          2.831943e-05,0.000108401,1.29446e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object31>
+
+  <Object32>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001959058,0.000111237,-1.1838e-06
+    Point2          0.0001959058,0.000111237,8.162e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object32>
+
+  <Object33>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          -4.09416e-06,0.000111237,-7.96753e-07
+    Point2          -4.09416e-06,0.000111237,1.20325e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object33>
+
+  <Object34>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7.593837e-06,7.74333e-05,-1.36568e-06
+    Point2          7.593837e-06,7.74333e-05,6.34325e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object34>
+
+  <Object35>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001479076,0.000179762,-1.15917e-06
+    Point2          0.0001479076,0.000179762,8.408340000000001e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object35>
+
+  <Object36>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          2.045177e-05,6.65356e-05,-5.994160000000001e-07
+    Point2          2.045177e-05,6.65356e-05,1.40058e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object36>
+
+  <Object37>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          6.341702999999999e-05,0.000105148,-9.85464e-07
+    Point2          6.341702999999999e-05,0.000105148,1.01454e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object37>
+
+  <Object38>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          3.123635e-05,9.016680000000001e-05,1.23704e-07
+    Point2          3.123635e-05,9.016680000000001e-05,2.1237e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object38>
+
+  <Object39>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000162982,4.39377e-05,1.62863e-07
+    Point2          0.000162982,4.39377e-05,2.16286e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object39>
+
+  <Object40>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          9.519991000000001e-06,0.000153665,-8.18208e-07
+    Point2          9.519991000000001e-06,0.000153665,1.18179e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object40>
+
+  <Object41>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          9.173834000000001e-05,6.53697e-05,-7.36325e-07
+    Point2          9.173834000000001e-05,6.53697e-05,1.26367e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object41>
+
+  <Object42>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.000166983,0.000152746,-1.67956e-07
+    Point2          0.000166983,0.000152746,1.83204e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object42>
+
+  <Object43>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.153124e-05,4.54473e-05,2.73612e-07
+    Point2          4.153124e-05,4.54473e-05,2.27361e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object43>
+
+  <Object44>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7.414776000000001e-05,0.00019087,-1.04562e-06
+    Point2          7.414776000000001e-05,0.00019087,9.543779999999999e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object44>
+
+  <Object45>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          5.142405e-05,9.26447e-05,-4.585e-07
+    Point2          5.142405e-05,9.26447e-05,1.5415e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object45>
+
+  <Object46>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001187214,8.685149999999999e-05,-6.45621e-08
+    Point2          0.0001187214,8.685149999999999e-05,1.93544e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object46>
+
+  <Object47>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          3.225546e-05,1.79542e-05,-3.23234e-07
+    Point2          3.225546e-05,1.79542e-05,1.67677e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object47>
+
+  <Object48>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          3.514482e-05,0.000118829,-1.37876e-06
+    Point2          3.514482e-05,0.000118829,6.21236e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object48>
+
+  <Object49>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001605188,0.000186029,4.22626e-07
+    Point2          0.0001605188,0.000186029,2.42263e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object49>
+
+  <Object50>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001943901,9.73697e-05,-1.12472e-06
+    Point2          0.0001943901,9.73697e-05,8.75283e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object50>
+
+  <Object51>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7.216281e-06,0.000128459,4.7892e-07
+    Point2          7.216281e-06,0.000128459,2.47892e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object51>
+
+  <Object52>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001519232,1.41979e-05,4.27304e-07
+    Point2          0.0001519232,1.41979e-05,2.4273e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object52>
+
+  <Object53>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          6.31166e-05,4.82494e-05,-1.16665e-06
+    Point2          6.31166e-05,4.82494e-05,8.33346e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object53>
+
+  <Object54>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001831399,0.000171038,3.43674e-07
+    Point2          0.0001831399,0.000171038,2.34367e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object54>
+
+  <Object55>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001604187,0.000132364,-1.03492e-06
+    Point2          0.0001604187,0.000132364,9.650760000000001e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object55>
+
+  <Object56>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          8.837809999999999e-05,5.21557e-05,-3.42841e-07
+    Point2          8.837809999999999e-05,5.21557e-05,1.65716e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object56>
+
+  <Object57>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001271425,0.000162333,-8.34592e-07
+    Point2          0.0001271425,0.000162333,1.16541e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object57>
+
+  <Object58>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001109047,0.00013822,-4.7267e-07
+    Point2          0.0001109047,0.00013822,1.52733e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object58>
+
+  <Object59>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          4.597199e-05,0.000158761,-5.84066e-07
+    Point2          4.597199e-05,0.000158761,1.41593e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object59>
+
+  <Object60>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001867188,7.89478e-05,-1.09717e-06
+    Point2          0.0001867188,7.89478e-05,9.02831e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object60>
+
+  <Object61>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001389468,0.000104747,-1.10693e-06
+    Point2          0.0001389468,0.000104747,8.9307e-07
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object61>
+
+  <Object62>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001794283,0.000103405,5.06519e-09
+    Point2          0.0001794283,0.000103405,2.00507e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object62>
+
+  <Object63>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          7.996524e-05,9.73564e-05,2.69953e-07
+    Point2          7.996524e-05,9.73564e-05,2.26995e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object63>
+
+  <Object64>
+    MaterialIDModel Constant // Possible values: Constant, Stripes, SphericalStripes, RadialStripes, GeneralStripes, SubObjectMapping
+    MaterialID      1
+    Type            ShortCircularFiber
+    Point1          0.0001297619,1.98964e-05,-4.56675e-08
+    Point2          0.0001297619,1.98964e-05,1.95433e-06
+    FiberEndType1   Flat // Possible values: Flat, CuttingPlane, Rounded
+    FiberEndType2   Flat // Possible values: Flat, CuttingPlane, Rounded
+    Diameter        1e-06
+  </Object64>
+</myroot>
