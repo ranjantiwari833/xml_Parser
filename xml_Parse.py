@@ -1,3 +1,5 @@
+## Replaces the coordinates in points 1 and 2 in xml file as given by the txt file
+
 import xml.etree.ElementTree as ET
 import re
 import sys

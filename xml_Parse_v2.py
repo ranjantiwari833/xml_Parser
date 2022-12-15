@@ -39,7 +39,7 @@ def parse_xml(xml_file, txt_file):
         # Replaces values for Point1
         attributes.text = re.sub(r"Point1          [a-z0-9\.\-]*,[a-z0-9\.\-]*,[a-z0-9\.\-]*", f"Point1          {data[counter]}0", attributes.text)
         # Replaces values for Point2
-        attributes.text = re.sub(r"Point2          [a-z0-9\.\-]*,[a-z0-9\.\-]*,[a-z0-9\.\-]*", f"Point2          {data[counter]}0", attributes.text)
+        attributes.text = re.sub(r"Point2          [a-z0-9\.\-]*,[a-z0-9\.\-]*,[a-z0-9\.\-]*", f"Point2          {data[counter]}1", attributes.text)
         counter += 1
 
     ## write the updated xml data into new xml file
